@@ -19,7 +19,8 @@ body{
   font-weight:bolder;
   text-shadow: 1px 1px 1px #222;
   color:black;
-  margin-bottom: 2px
+  padding: 2px;
+  margin-bottom: 5px;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
