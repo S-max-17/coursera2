@@ -19,6 +19,7 @@ body{
   font-weight:bolder;
   text-shadow: 1px 1px 1px #222;
   color:black;
+  margin-bottom: 2px
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
@@ -144,4 +145,5 @@ h2 {
 }
 .row {
   margin: 20px;
+  
 }
